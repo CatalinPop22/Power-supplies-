@@ -1,0 +1,27 @@
+LTspice 24.0.9 for Windows
+Circuit: * D:\facultate\AN 4\SEM 1\uE\LAB\laborator_2\laborator_2\Proiect surse.asc
+Start Time: Wed Mar 18 16:28:30 2026
+Warning: Multiple definitions of model "1n4007" Type: Diode
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v1.  Increasing period to 5.9e-06
+WARNING: Node N003 is floating.
+
+WARNING: Less than two connections to node v-.  This node is used by v9.
+Per .tran options, skipping operating point for transient analysis.
+Changing Tseed to 2.92969e-09
+Changing Tseed to 2.92969e-11
+Changing Tseed to 2.92969e-08
+Changing Tseed to 2.92969e-12
+Changing Tseed to 2.92969e-07
+Changing Tseed to 2.92969e-13
+Changing Tseed to 2.92969e-06
+Changing Tseed to 2.92969e-14
+Changing Tseed to 2.92969e-05
+Changing Tseed to 2.92969e-15
+Heightened Def Con from 5.57711e-09 to 5.57711e-09
+Total elapsed time: 2.335 seconds.
+
